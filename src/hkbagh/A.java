@@ -39,6 +39,7 @@ public class A extends Frame {
         g.drawOval(700, 700, 100, 100);
 
 
+
 }
 
 public static void main(String[] args ){
